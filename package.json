@@ -1,0 +1,25 @@
+{
+  "name": "automated-test-examplo-github-cypress",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BonomiLuan/automated-test-examplo-github-cypress.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BonomiLuan/automated-test-examplo-github-cypress/issues"
+  },
+  "homepage": "https://github.com/BonomiLuan/automated-test-examplo-github-cypress#readme",
+  "devDependencies": {
+    "cypress": "^12.1.0"
+  },
+  "dependencies": {
+    "cypress-xpath": "^2.0.1"
+  }
+}
