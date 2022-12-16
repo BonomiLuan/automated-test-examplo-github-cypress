@@ -1,0 +1,1 @@
+# automated-test-examplo-github-cypress
